@@ -1,0 +1,9 @@
+                                                Bonjour,
+   Nous avons le réel plaisir de vous décrire notre projet de fin d'année sur la création de notre site web au nom de JANNET. La force d'une équipe composée de Khalid Youssef, Moundouti Luce , Aya Idouahmane et le travail de façon harmonieuse que nous avions appliqué qui a aboutit à la réussite de notre projet.
+   En parlant de notre projet, c'est un site de vente de bijoux en ligne qui permet aux clients d'effectuer leurs vente de bijoux en ligne au lieu de se déplacer et visiter plusieurs bijoutier pour chercher ce qu'ils veulent.
+   Pourquoi le nom JANNET?
+    Jannet est un nom qui refère le paradis , c'est un site de vente de bijoux de femmes, qui illumine encore leur beauté d'où Jannet.
+   En effet dans le travail, nous nous sommes basés sur HTML, qui nous a permis de faire: le HOME, le SHOP, le CART et bien d'autre choses.
+   Ensuite nous avons utilisé CSS pour faire le 'style' de notre site.
+   Enfin nous avons utilisé Java Script 'JS' pour completer les elements qui manquaient.
+   Pour finir, ce travail d'équipe nous a permis de favoriser le développement des compétences et l'intelligence collective.
